@@ -1,0 +1,18 @@
+package factory;
+
+import maze.BombedWall;
+import maze.Room;
+import maze.RoomWithABomb;
+import maze.Wall;
+
+public class BombedMazeFactory extends MazeFactory {
+    @Override
+    public Wall makeWall() {
+        return new BombedWall();
+    }
+
+    @Override
+    public Room makeRoom(int n) {
+        return new RoomWithABomb(n);
+    }
+}

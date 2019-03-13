@@ -1,0 +1,7 @@
+# build directory
+**/cpp/cmake-build-*
+**/cmake-build-*
+**/java/out
+
+# vp backup
+*.vpp.bak_*
