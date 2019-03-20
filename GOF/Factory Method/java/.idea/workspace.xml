@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0502057a-a4f1-4403-9220-8f0b29aa4146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazeFactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazeFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazeGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazeGame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazePrototypeFactory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Prototype/cpp/MazePrototypeFactory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../抽象工厂AbstractFactory/cpp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryMethod.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethod.vpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../抽象工厂AbstractFactory/cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../抽象工厂AbstractFactory/cpp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/BombedMazeFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/BombedMazeFactory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/EnchantedMazeFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/EnchantedMazeFactory.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/MazeFactory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Singleton/cpp/MazeFactory.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/src/EnchantedMazeGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#312#313#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -125,6 +122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,8 +140,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,16 +192,17 @@
       <workItem from="1552458840629" duration="1626000" />
       <workItem from="1552551803946" duration="50000" />
       <workItem from="1552551972435" duration="102000" />
+      <workItem from="1553067111076" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3490000" />
+    <option name="totallyTimeSpent" value="3501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17006803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1723356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,7 +287,7 @@
     <entry file="file://$PROJECT_DIR$/src/EnchantedMazeGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
